@@ -1,0 +1,27 @@
+{
+  "name": "bip39",
+  "version": "0.1.0",
+  "description": "BIP39 implementation in Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bigmeech/bip39.git"
+  },
+  "keywords": [
+    "bips",
+    "bip",
+    "mnemonic",
+    "words",
+    "bitcoin",
+    "altcoin"
+  ],
+  "author": "Larry Eliemenye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bigmeech/bip39/issues"
+  },
+  "homepage": "https://github.com/bigmeech/bip39#readme"
+}
