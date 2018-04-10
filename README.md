@@ -1,1 +1,1 @@
-# BIP39 Deterministric Key Generator
+# BIP39 Deterministic Key Generator
