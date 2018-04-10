@@ -23,5 +23,9 @@
   "bugs": {
     "url": "https://github.com/bigmeech/bip39/issues"
   },
-  "homepage": "https://github.com/bigmeech/bip39#readme"
+  "homepage": "https://github.com/bigmeech/bip39#readme",
+  "dependencies": {
+    "left-pad": "^1.3.0",
+    "secure-random": "^1.1.1"
+  }
 }
